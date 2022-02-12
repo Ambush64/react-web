@@ -35,7 +35,7 @@ const Contact = () => {
                   </p>
                   <figure>
                     <img
-                      src="./images/hero1.jpg"
+                      src="https://i.ibb.co/ZStG5Sf/hero1.jpg"
                       alt="contact"
                       className="img-fluid"
                     />

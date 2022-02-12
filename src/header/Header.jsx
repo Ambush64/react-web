@@ -27,12 +27,12 @@ const Header = () => {
             {/* main header right side */}
             <div className="col-12 order-md-first order-sm-first col-lg-6 main-hero-img header-right-side d-flex justify-content-center align-items-center">
               <img
-                src="./images/hero1.jpg"
+                src="https://i.ibb.co/ZStG5Sf/hero1.jpg"
                 className="img-fluid"
                 alt="hero img"
               />
               <img
-                src="./images/hero3.jpg"
+                src="https://i.ibb.co/T05LnM4/hero3.jpg"
                 className="img-fluid main-hero-img-2"
                 alt="hero img 4"
               />
