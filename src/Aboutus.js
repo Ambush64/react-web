@@ -61,7 +61,7 @@ const Aboutus = () => {
 
               <button className="btn-style btn-style-border">Learn More</button>
             </div>
-            <div className="col-lg-5  col-12 service-right">
+            <div className="col-lg-5  col-12 services-right">
               <img
                 src="https://i.ibb.co/yQpQSc0/callcenter.jpg"
                 alt="about us"
